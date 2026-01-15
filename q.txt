@@ -1,0 +1,18 @@
+Design a real time application using java script and HTML and external css 
+
+That will perform the following 
+
+1.Read a number and print the same in words 
+
+Ex -103234
+As one lakh thirty two thousand n Thirty four 
+
+2.Read a string and print the number 
+
+One lakh thirty thousand and thirt four as 
+
+Input 
+
+Output is 
+
+103034
